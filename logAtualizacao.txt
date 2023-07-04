@@ -1,0 +1,16 @@
+2022-08-30 21:45:59.447316
+IVVB11: Ataulizado
+BOVA11: Ataulizado
+GOLD11: Ataulizado
+PRIO3: Ataulizado
+TASA4: Ataulizado
+RECV3: Ataulizado
+MOVI3: Ataulizado
+RENT3: Ataulizado
+AGRO3: Ataulizado
+EZTC3: Ataulizado
+EVEN3: Ataulizado
+AMBP3: Ataulizado
+BMOB3: Ataulizado
+CBAV3: Ataulizado
+SQIA3: Ataulizado
